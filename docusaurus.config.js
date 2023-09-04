@@ -14,11 +14,11 @@ const config = {
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs-v1',
+  baseUrl: '/docs-v1/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Kisara', // Usually your GitHub org/user name.
+  organizationName: 'Kisara-app', // Usually your GitHub org/user name.
   projectName: 'docs-v1', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
